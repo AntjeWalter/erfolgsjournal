@@ -6,7 +6,6 @@ const GlobalStyles = createGlobalStyle`
         padding: 0;
         margin: 10px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        //background-image: url("/assets/plant-background.jpg");
     }
 
     * {
