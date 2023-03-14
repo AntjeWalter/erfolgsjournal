@@ -36,14 +36,22 @@ const StyledInput = styled.input`
   height: 50px;
   width: 200px;
   display: block;
+  margin: 10px 0 10px 0;
 `;
 
 const StyledDateInput = styled.input`
   display: block;
   height: 30px;
   padding: 10px;
+  margin-top: 10px;
 `;
 
 const StyledButton = styled.button`
   margin-top: 10px;
+  background-color: lightgreen;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
 `;
